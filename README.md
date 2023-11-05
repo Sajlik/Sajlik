@@ -1,4 +1,7 @@
-Hi 👋 ,I'm Sajli K
+Hi 👋 ,I'm @SajliK  :)
 
-I'm a self-taught full stack developer with expertise in the MERN stack. I have experience working on various projects, and I'm proficient in JavaScript, Node.js, React, MongoDB, and Git. I'm passionate about staying up-to-date with the latest trends in web development, and I enjoy learning new tools and technologies to enhance my skills. If you're looking for a dedicated and talented developer, feel free to browse my GitHub profile and reach out to me!
+👀 I’m interested in software development 🥳
 
+🌱 I am a self-taught developer who loves to solve problems digitally with top notch technologies. I am specialised in web technologies, curious to learn more about developing scalable distributed systems, and cares about writing readable as well as maintainable code.
+
+📫 reach me at sajli72002@gmail.com
