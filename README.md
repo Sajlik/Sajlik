@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188EF7&random=false&width=435&lines=Magesh+P;MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188EF7&random=false&width=435&lines=Sajli+K;MERN+Stack+Developer)](https://git.io/typing-svg)
 # MERN Developer
 [![](https://visitcount.itsvg.in/api?id=mageshp121&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)<br>
 <br>
