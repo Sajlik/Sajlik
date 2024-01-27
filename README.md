@@ -11,8 +11,8 @@
 
 - 🌱 I’m currently learning **React,Nextjs**
 
--🔭 I am a self-taught developer who loves to solve problems digitally with top notch technologies. I am specialised in web technologies, curious to learn more about developing scalable distributed systems, 
-   and cares about writing readable as well as maintainable code.
+- 🔭 I am a self-taught developer who loves to solve problems digitally with top notch technologies. I am specialised in web technologies, curious to learn more 
+     about developing scalable distributed systems, and cares about writing readable as well as maintainable code.
 - 💬 Ask me about **React,Nodejs,Mongodb,SQL,Docker...**
 
 - 📫 How to reach me **sajli72002@gmail.com**
