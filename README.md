@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🏁 I’m a passionate MERN (MongoDB, Express, React, Node.js) Stack developer with a strong foundation in computer science<br>🤝 I’m looking for a good IT job as a DEVELOPER <br>🌱 I’m currently a trainee at Brototype<br>🐱‍💻 I hold a degree in BTECH computerscience<br>💬 Ask me about in LinkedIn<br>SQL, and JavaScript.
+🏁 I’m a passionate MERN (MongoDB, Express, React, Node.js) Stack developer with a strong foundation in computer science<br>🤝 I’m looking for a good IT job as a DEVELOPER <br>🌱 I’m currently a student at Brototype<br>🐱‍💻 I hold a degree in BTECH computerscience<br>💬 Ask me about in LinkedIn<br>SQL, and JavaScript.
 
 
 ## 🌐 Socials:
