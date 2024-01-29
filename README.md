@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188EF7&random=false&width=435&lines=Sajli+K;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SajliK-na&label=Profile%20views&color=0e75b6&style=flat" alt="Sajli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sajlik" alt="Sajlik" /></a> </p>
